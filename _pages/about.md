@@ -2,15 +2,15 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 ## Bio
 I just graduated from Stanford University my M.S. in Symbolic Systems, an interdisciplinary program combining several fields, including computer science, psychology, and linguistics. At Stanford, I worked with [Hyowon Gweon](https://sll.stanford.edu) to investigate adaptive communication in children and children's social networks. I also worked with Hazel Markus, Jennifer Eberhardt, and MarYam Hamedani at [Stanford SPARQ](https://sparq.stanford.edu), studying how people understand and respond to social and economic inequality.
 
-Before I came to Stanford, I earned my B.S. in Psychology and Informatics from Indiana University in 2022, where I also received a Certificate in Clinical Psychological Science. As an undergraduate, I studied biased perceptions of low-socioeconomic status individuals with [Kurt Hugenberg](https://hugenberg.lab.indiana.edu/index.html), as well as gender roles and motivation with [Amanda Diekman](https://socialroles.lab.indiana.edu/index.html).
+Before I came to Stanford, I earned my B.S. in Psychology and Informatics from Indiana University in 2022, where I also received a Certificate in Clinical Psychological Science. As an undergraduate, I studied biased perceptions of low-socioeconomic status individuals with [Kurt Hugenberg](https://hugenberg.lab.indiana.edu/index.html), as well as gender roles and motivation with [Amanda Diekman](https://socialroles.lab.indiana.edu/index.html). 
 
 I am passionate about the use of computational methods in research and tech for social good! I collaborate with numerous Indigenous communities across North America on projects and tools to preserve and revitalize their languages. Excitingly, I recently worked with the Arctic Village Council in Alaska to secure a large federal grant funding our project to create a variety of resources for the Dinjii Zhuh Kʼyàa language, including the training and development of AI software for translation🥳 I am also passionate about education, especially **equal-access education**. As a result, I've worked with [SureStart](https://mysurestart.com/) and [Infogito](https://www.linkedin.com/company/infogito) in the edtech space to make STEM education more accessible to K-12 students who come from backgrounds historically underrepresented in STEM fields.
 
