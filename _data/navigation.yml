@@ -4,13 +4,13 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "About Me"
-    url: /about/    
-
+main: 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Other Interests"   
+    url: /other/
 
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/171s0dQ0ttp53Z4PC40gIFxv4V_Ud8o-r/view?usp=sharing
 

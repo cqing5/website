@@ -21,4 +21,3 @@ In addition to HCI courses, I also TA'd for several psychology courses, ranging 
 * PSY-P 325: Psychology of Learning with Dr. Timothy Patrick (Spring 2020)
 
  While each course had its unique aspects, one of my favorite experiences was TAing the capstone course, PSY-P 421. In this course, I guided students through the research process, from refining their research questions to designing their studies and conducting their analyses. I loved helping students develop their own independent research projects and getting to combine my passion for research and teaching.
-
