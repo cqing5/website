@@ -7,11 +7,13 @@ author_profile: true
 
 ## Tech for Social Good
 
-I collaborate with numerous Indigenous communities across North America working to design digital tools for preserving and revitalizing their endangered languages. Excitingly, I worked with Gwich'in leaders in Alaska to secure a grant from the U.S. Department of Health and Human Services to train and develop AI models to develop translation resources for the Dinjii Zhuh Kʼyàa language🥳 I also recently co-authored a U.S. Department of Education–funded, five‑year project aimed at developing and implementing education technology to improve English and Indigenous-langauge outcomes among underserved K–12 students. Here are some pictures from my (-20°F😣) trip to Arctic Village, Alaska for a language recording session with Elders!
+I collaborate with numerous Indigenous communities across North America working to design digital tools for preserving and revitalizing their endangered languages. Excitingly, I worked with Gwich'in leaders in Alaska to secure a grant from the U.S. Department of Health and Human Services to train and develop AI models to develop translation resources for the Dinjii Zhuh Kʼyàa language🥳 I also recently co-authored a U.S. Department of Education–funded, five‑year project aimed at developing and implementing education technology to improve English and Indigenous-langauge outcomes among underserved K–12 students.
+
+<!-- Here are some pictures from my (-20°F😣) trip to Arctic Village, Alaska for a language recording session with Elders!
 
 * [Me with a wild herd of caribou](../images/caribou.png)
 * [Recording session with the Elders](../images/recording_session.png)
-* [Mode of transportation](../images/alaska_sled.png)
+* [Mode of transportation](../images/alaska_sled.png) -->
 
 
 ## Human Computer Interaction
