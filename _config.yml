@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Catherine Qing"
 description              : &description "M.S. Symbolic Systems, B.S. Psychology and Informatics"
 url                      : https://cqing5.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : "cqing5/catherineqing.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
