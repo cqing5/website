@@ -7,7 +7,7 @@ author_profile: true
 
 ## Tech for Social Good
 
-I collaborate with numerous Indigenous communities across North America working to design digital tools for preserving and revitalizing their endangered languages. Excitingly, I worked with Gwich'in leaders in Alaska to secure a grant from the U.S. Department of Health and Human Services to train and develop AI models to develop translation resources for the Dinjii Zhuh Kʼyàa language🥳 I also recently co-authored a U.S. Department of Education–funded, five‑year project aimed at developing and implementing education technology to improve English and Indigenous-langauge outcomes among underserved K–12 students. Here are some pictures from my (-20°F) trip to Arctic Village, Alaska for a language recording session with Elders!
+I collaborate with numerous Indigenous communities across North America working to design digital tools for preserving and revitalizing their endangered languages. Excitingly, I worked with Gwich'in leaders in Alaska to secure a grant from the U.S. Department of Health and Human Services to train and develop AI models to develop translation resources for the Dinjii Zhuh Kʼyàa language🥳 I also recently co-authored a U.S. Department of Education–funded, five‑year project aimed at developing and implementing education technology to improve English and Indigenous-langauge outcomes among underserved K–12 students. Here are some pictures from my (-20°F😣) trip to Arctic Village, Alaska for a language recording session with Elders!
 
 !(images/caribou.png)
 !(images/recording_session.png)
@@ -15,7 +15,7 @@ I collaborate with numerous Indigenous communities across North America working 
 
 
 ## Human Computer Interaction
-I have always loved design and being creative, which sparked my interest in human-computer interaction (HCI). I was captivated by its unique blend of engineering, design, and psychology and was inspired to create impactful design solutions that resonate with people’s needs. Throughout my undergraduate and master’s programs, I honed this passion through coursework, research, and teaching experiences. I'm grateful to have had so many opportunities to collaborate on projects combining technical rigor with a deep understanding of human behavior, and I hope to keep exploring this intersection!
+I have always loved design and being creative, which sparked my interest in HCI. I was captivated by its unique blend of engineering, design, and psychology and was inspired to create impactful design solutions that resonate with people’s needs. Throughout my undergraduate and master’s programs, I honed this passion through coursework, research, and teaching experiences. I'm grateful to have had so many opportunities to collaborate on projects combining technical rigor with a deep understanding of human behavior, and I hope to keep exploring this intersection!
 
 
 ## Equal Access Education
