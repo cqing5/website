@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a first-year PhD student in Psychology at UC San Diego. 
 
-I graduated from Stanford University with my [M.S. in Symbolic Systems](https://symsys.stanford.edu/graduates/masters-program), an interdisciplinary program combining several fields, including computer science, psychology, and linguistics. At Stanford, I worked with [Hyowon Gweon](https://sll.stanford.edu) to investigate adaptive communication in children and children's social networks. I also worked with Hazel Markus and Jennifer Eberhardt at [Stanford SPARQ](https://sparq.stanford.edu) to apply computational methods to investigate how people understand and respond to inequality.
+I graduated from Stanford University with my [M.S. in Symbolic Systems](https://symsys.stanford.edu/graduates/masters-program), an interdisciplinary program combining several fields, including computer science, psychology, and linguistics. At Stanford, I worked with [Hyowon Gweon](https://sll.stanford.edu) to investigate adaptive communication in children and children's social networks. I also worked with Hazel Markus and Jennifer Eberhardt at [Stanford SPARQ](https://sparq.stanford.edu) using computational methods to understand human communication, attitudes, and behavior.
 
 Before I came to Stanford, I earned a B.S. in Psychology (honors) and a B.S. in Informatics from Indiana University, where I also received a Certificate in Clinical Psychological Science. As an undergraduate, I studied pain perceptions of low-socioeconomic status individuals with [Kurt Hugenberg](https://hugenberg.lab.indiana.edu/index.html). 
 
