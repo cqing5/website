@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-  .publications p { padding-left: 2em; text-indent: -2em; }
-</style>
-
-<div class="publications">
-
 ## Published
 
 Hamedani, M. G., Gligorić, K., Lee, C., Zhao, X., **Qing, C.**, Markus, H. R., & Eberhardt, J. L. (in press). Field interventions for online community moderators support constructive conversations. *Proceedings of the National Academy of Sciences*.
@@ -34,5 +28,3 @@ Thomas, C. C., García-Sánchez, E., **Qing, C.**, Maitreyi, A., Hamedani, M. G.
 García-Sánchez, E., **Qing, C.**, Thomas, C. C., Maitreyi, A., Constantino, S., Hamedani, M. G., Eberhardt, J. L., & Markus, H. R. (n.d.). *Learning from abroad: What global cash assistance programs can teach us to strengthen domestic efforts to reduce poverty and improve health* [in prep].
 
 García-Sánchez, E., Thomas, C. C., **Qing, C.**, Maitreyi, A., Constantino, S., Hamedani, M. G., & Markus, H. R. (n.d.). *Positive-sum narratives foster bipartisan support for addressing racial disparities in housing* [in prep].
-
-</div>
