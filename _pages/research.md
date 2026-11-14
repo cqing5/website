@@ -7,11 +7,11 @@ author_profile: true
 
 ## Published
 
-Hamedani, M. G., Gligorić, K., Lee, C., Zhao, X., **Qing, C.**, Markus, H. R., & Eberhardt, J. L. (in press). Field interventions for online community moderators support constructive conversations. *Proceedings of the National Academy of Sciences*.
-<span style="font-size: 0.9em; color: #555;">Computational methods: NLP, large-scale social network app data</span>
+Hamedani, M. G., Gligorić, K., Lee, C., Zhao, X., **Qing, C.**, Markus, H. R., & Eberhardt, J. L. (in press). Field interventions for online community moderators support constructive conversations. *Proceedings of the National Academy of Sciences*.<br>
+<span style="font-size: 0.9em; color: #16a34a;">Computational methods: NLP, large-scale social network app data</span>
 
-García-Sánchez, E., **Qing, C.**, Maitreyi, A., Thomas, C. C., Constantino, S., Hamedani, M. G., & Markus, H. R. (in press). Why do U.S. Americans support or oppose welfare and cash transfer programs? Mapping the narrative landscape. *RSF: The Russell Sage Foundation Journal of the Social Sciences*.
-<span style="font-size: 0.9em; color: #555;">Computational methods: NLP/topic modeling, LLM evaluation</span>
+García-Sánchez, E., **Qing, C.**, Maitreyi, A., Thomas, C. C., Constantino, S., Hamedani, M. G., & Markus, H. R. (in press). Why do U.S. Americans support or oppose welfare and cash transfer programs? Mapping the narrative landscape. *RSF: The Russell Sage Foundation Journal of the Social Sciences*.<br>
+<span style="font-size: 0.9em; color: #16a34a;">Computational methods: NLP/topic modeling, LLM evaluation</span>
 
 Chuey, A., Williams, R. M., **Qing, C.**, Frank, M. C., & Gweon, H. (2026). Children's understanding of how noise disrupts verbal communication. *Child Development*, *97*(2), 380–391. <https://doi.org/10.1093/chidev/aacag011>
 
@@ -19,8 +19,8 @@ Chuey, A., **Qing, C.**, Williams, R. M., Frank, M. C., & Gweon, H. (2024). Show
 
 Hunter-Mullis, K., **Qing, C.**, & Decker, K. A. (2024). Evaluation of remote and in-person instruction of a social-emotional learning curriculum in a rural Midwestern middle school: A case study. *Psychology in the Schools*, 1–15. <https://doi.org/10.1002/pits.23270>
 
-Bueckle, A. D., **Qing, C.**, Luley, S. M., Kumar, Y. R., Pandey, N., & Börner, K. (2023). The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality. *Frontiers in Bioinformatics*, *3*, Article 1162723. <https://doi.org/10.3389/fbinf.2023.1162723>
-<span style="font-size: 0.9em; color: #555;">Computational methods: VR, data visualization</span>
+Bueckle, A. D., **Qing, C.**, Luley, S. M., Kumar, Y. R., Pandey, N., & Börner, K. (2023). The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality. *Frontiers in Bioinformatics*, *3*, Article 1162723. <https://doi.org/10.3389/fbinf.2023.1162723><br>
+<span style="font-size: 0.9em; color: #16a34a;">Computational methods: VR, data visualization</span>
 
 ## Under Review
 
@@ -28,7 +28,7 @@ Thomas, C. C., García-Sánchez, E., **Qing, C.**, Maitreyi, A., Hamedani, M. G.
 
 ## In Preparation
 
-García-Sánchez, E., **Qing, C.**, Thomas, C. C., Maitreyi, A., Constantino, S., Hamedani, M. G., Eberhardt, J. L., & Markus, H. R. (n.d.). *Learning from abroad: What global cash assistance programs can teach us to strengthen domestic efforts to reduce poverty and improve health* [in prep].
-<span style="font-size: 0.9em; color: #555;">Computational methods: LLM evaluation, web development</span>
+García-Sánchez, E., **Qing, C.**, Thomas, C. C., Maitreyi, A., Constantino, S., Hamedani, M. G., Eberhardt, J. L., & Markus, H. R. (n.d.). *Learning from abroad: What global cash assistance programs can teach us to strengthen domestic efforts to reduce poverty and improve health* [in prep].<br>
+<span style="font-size: 0.9em; color: #16a34a;">Computational methods: LLM evaluation, web development</span>
 
 García-Sánchez, E., Thomas, C. C., **Qing, C.**, Maitreyi, A., Constantino, S., Hamedani, M. G., & Markus, H. R. (n.d.). *Positive-sum narratives foster bipartisan support for addressing racial disparities in housing* [in prep].
